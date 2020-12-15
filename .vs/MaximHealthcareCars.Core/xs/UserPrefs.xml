@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D516FA84-2335-4D40-815F-FA4BAD3CD09F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MaximHealthcareCars.Models/Car.cs">
+    <Files>
+      <File FileName="MaximHealthcareCars.Core/Class1.cs" Line="3" Column="30" />
+      <File FileName="MaximHealthcareCars.Abstractions/Class1.cs" Line="1" Column="1" />
+      <File FileName="MaximHealthcareCars.Implementations/Class1.cs" Line="1" Column="1" />
+      <File FileName="../../.nuget/packages/acr.userdialogs/7.1.0.470/readme.txt" Line="1" Column="1" />
+      <File FileName="../../.nuget/packages/mvvmcross/6.4.2/readme.txt" Line="1" Column="1" />
+      <File FileName="MaximHealthcareCars.Models/Car.cs" Line="7" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MaximHealthcareCars.Core" expanded="True">
+            <Node name="MaximHealthcareCars.Models" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MaximHealthcareCars.IOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E92A755B-3F6B-499D-B37D-48965760141C" />
+  <MonoDevelop.Ide.ItemProperties.MaximHealthcareCars.Abstractions FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MaximHealthcareCars.Implementations FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MaximHealthcareCars.Models FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MaximHealthcareCars.Core FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

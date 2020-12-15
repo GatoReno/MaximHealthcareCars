@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k7HQkMhzfTM29qSBcnsmq2rG9NlzhFv+IWGYDe6rtW/GqSHT4FQGjWpTABh7Rrs0siAZbeEvtsQd6Iy9FQvFpg==",
+  "success": true,
+  "projectFilePath": "/Users/dmn/Projects/MaximHealthcareCars.Core/MaximHealthcareCars.Core/MaximHealthcareCars.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmn/.nuget/packages/acr.userdialogs/7.1.0.470/acr.userdialogs.7.1.0.470.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/mvvmcross/6.4.2/mvvmcross.6.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

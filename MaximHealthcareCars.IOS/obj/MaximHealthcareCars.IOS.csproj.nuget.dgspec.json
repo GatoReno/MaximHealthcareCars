@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dmn/Projects/MaximHealthcareCars.Core/MaximHealthcareCars.IOS/MaximHealthcareCars.IOS.csproj": {}
+  },
+  "projects": {
+    "/Users/dmn/Projects/MaximHealthcareCars.Core/MaximHealthcareCars.IOS/MaximHealthcareCars.IOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dmn/Projects/MaximHealthcareCars.Core/MaximHealthcareCars.IOS/MaximHealthcareCars.IOS.csproj",
+        "projectName": "MaximHealthcareCars.IOS",
+        "projectPath": "/Users/dmn/Projects/MaximHealthcareCars.Core/MaximHealthcareCars.IOS/MaximHealthcareCars.IOS.csproj",
+        "packagesPath": "/Users/dmn/.nuget/packages/",
+        "outputPath": "/Users/dmn/Projects/MaximHealthcareCars.Core/MaximHealthcareCars.IOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/dmn/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Acr.UserDialogs": {
+              "target": "Package",
+              "version": "[7.1.0.470, )"
+            },
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[6.4.2, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
